@@ -40,6 +40,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "jest-mock-extended": "^3.0.1",
     "module-alias": "^2.2.2",
     "rimraf": "^3.0.2"
   },
